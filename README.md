@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=250&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Hello&fontSize=90)
 
 
 ### github status & uesd languages ###
