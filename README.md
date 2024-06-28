@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello&fontSize=90)
 
 
-### github status & uesd languages ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero526&show_icons=true&theme=radical) <!-- github status --> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero526&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- uesd languages -->
+### github status & uesd languages ### 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero526&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero526&layout=compact)](https://github.com/delay-100/github-readme-stats) 
+<!-- github status --> <!-- uesd languages -->
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
 
 <!--
 **zero526/zero526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
