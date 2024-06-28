@@ -22,11 +22,15 @@ Connect with me..
 👍Tech stack👍
 
 👍Languages👍
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</p>
 
-Studying
+👍Studying👍
 
-Tools
+👍Tools👍
 <p>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -38,16 +42,16 @@ Tools
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 </p>
 
-Content
+👍Content👍
 
-Interest
+👍Interest👍
 
-Activity
+👍Activity👍
 CWNU CE Casper(2020~)
 
-Hard Skills
+👍Hard Skills👍
 
-Soft Skills
+👍Soft Skills👍
 
 <!--  백준 연동
 http://mazassumnida.wtf/api/v1/generate_badge?boj={username}
