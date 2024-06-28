@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi! Its zEr0 &fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi!%20ItszEr0 &fontSize=90)
 
 Connect with me..
 [<img align="left" alt="zero526 | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
