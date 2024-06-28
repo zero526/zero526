@@ -47,7 +47,10 @@ Connect with me..
 👍Interest👍
 
 👍Activity👍
-CWNU CE Casper(2020~)
+<p>
+  CWNU CE Casper(2020~)
+</p>
+
 
 👍Hard Skills👍
 
