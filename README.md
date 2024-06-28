@@ -1,11 +1,8 @@
-## Hi there 👋
-zero526
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello&fontSize=90)
 
-### github status ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero526&show_icons=true&theme=radical) <!-- github status -->
 
-### uesd languages ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero526&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- most languages -->
+### github status & uesd languages ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero526&show_icons=true&theme=radical) <!-- github status --> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero526&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- uesd languages -->
 
 <!--
 **zero526/zero526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
