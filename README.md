@@ -45,14 +45,16 @@ Connect with me..
 👍Content👍
 
 👍Interest👍
-  (Game client programing)
-  C#
-  Unity
-  Unreal
+
+(Game client programing)
+C#
+Unity
+Unreal
 
 👍Activity👍
-  CWNU CE(2020~)
-  Security Society Casper(2020~)
+
+CWNU CE(2020~)
+Security Society Casper(2020~)
 
 
 👍Hard Skills👍
