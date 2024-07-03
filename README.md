@@ -48,7 +48,8 @@ Connect with me..
 
 👍Activity👍
 <p>
-  CWNU CE Casper(2020~)
+  CWNU CE(2020~)
+  Security Society Casper(2020~)
 </p>
 
 
