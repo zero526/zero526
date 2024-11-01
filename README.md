@@ -50,6 +50,9 @@ Connect with me..
 C#
 Unity
 Unreal
+OpenGL
+자료구조
+알고리즘
 
 👍Activity👍
 
