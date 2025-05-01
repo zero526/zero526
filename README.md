@@ -19,18 +19,16 @@ Connect with me..
 ### github status & uesd languages ### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero526&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero526&layout=compact)](https://github.com/delay-100/github-readme-stats) 
 
-👍Tech stack👍
-
-👍Languages👍
+⚡Languages⚡
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
 
-👍Studying👍
+⚡Studying⚡
 
-👍Tools👍
+⚡Tools⚡
 <p>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -42,9 +40,9 @@ Connect with me..
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 </p>
 
-👍Content👍
+⚡Content⚡
 
-👍Interest👍
+⚡Interest⚡
 
 (Game client programing)
 C#
@@ -54,22 +52,11 @@ OpenGL
 자료구조
 알고리즘
 
-👍Activity👍
+⚡Activity⚡
 
 CWNU CE(2020~)
 Security Society Casper(2020~)
 
-
-👍Hard Skills👍
-
-👍Soft Skills👍
-
-<!--  백준 연동
-http://mazassumnida.wtf/api/v1/generate_badge?boj={username}
--->
-
-<!-- 방문자 수 표시 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzero526%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **zero526/zero526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
